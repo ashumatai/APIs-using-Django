@@ -1,0 +1,2 @@
+access token pinterest = AliAYXmXKDe1nRsKaWMwTI8OvRBRFgreJi51F1NGensdZQCnTQmggDAAAxefRnp8rryguhoAAAAA
+Pinterest board id = 693695217543028061
